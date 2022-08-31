@@ -2,3 +2,6 @@
 #It will display Fuck the world!
 
 print('Fuck the World!')
+
+sum = 1 + 2
+print('Sum is =', sum)
